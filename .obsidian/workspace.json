@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abc.md",
+                "file": "C/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abc.md",
+                "file": "C/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "abc.md",
+                "file": "C/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "abc.md"
+                "file": "C/C.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "1b257f4b7fb783b7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
     "abc.md",
+    "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
     "计算机网络/计算机网络.xmind",
     "股票/股票入门.xmind",
     "股票",
@@ -175,7 +175,6 @@
     "C/Untitled mindmap.md",
     "Excalidraw",
     "Untitled 2.md",
-    "abc.md",
     "Untitled 1.md",
     "python interpreter.md",
     "Untitled"
