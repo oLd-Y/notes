@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "277903244bd46220",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e938f8017f5a4bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9540293faae1cce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f1227cf7ec593235",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb22382b7330779f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6d7629d5eed5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9f2b3865eef95b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "206453a9adf3fdfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e383dbb8e3379cd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4a49efbd7778eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c932e97c96705b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abef6935415d1f81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35f98e4d1eed8419",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a7f324391c1a1e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfab9cfa61f8a9c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1227cf7ec593235",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
+    "C/Drawing 2023-09-15 13.46.41.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 13.19.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
+    "计算机网络/计算机网络.md",
+    "C/C.md
