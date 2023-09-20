@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "eab46e2c16b3478a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1b257f4b7fb783b7",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -157,15 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9540293faae1cce",
+  "active": "eab46e2c16b3478a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
     "C/C.md",
     "abc.md",
     "计算机网络/计算机网络.xmind",
     "股票/股票入门.xmind",
     "股票",
-    "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
     "C/Drawing 2023-09-15 13.46.41.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 13.19.13.excalidraw.md",
     "计算机网络/计算机网络.md",
