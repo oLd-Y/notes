@@ -18,16 +18,6 @@
             }
           },
           {
-            "id": "f1227cf7ec593235",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
             "id": "1b257f4b7fb783b7",
             "type": "leaf",
             "state": {
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
+                "file": "abc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
+                "file": "abc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md"
+                "file": "abc.md"
               }
             }
           }
@@ -168,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1227cf7ec593235",
+  "active": "1b257f4b7fb783b7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
     "abc.md",
     "计算机网络/计算机网络.xmind",
     "股票/股票入门.xmind",
@@ -177,7 +168,6 @@
     "Excalidraw/Drawing 2023-09-15 13.10.13.excalidraw.md",
     "C/Drawing 2023-09-15 13.46.41.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 13.19.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-15 13.19.07.excalidraw.md",
     "计算机网络/计算机网络.md",
     "C/C.md",
     "C/Drawing 2023-09-15 13.50.12.excalidraw.md",
